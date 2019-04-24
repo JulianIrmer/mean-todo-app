@@ -1,0 +1,13 @@
+.container{
+	width: 60%;
+	margin: 0 auto;
+	font-size: 100%;
+	letter-spacing: 1px;
+	text-align: center;
+}
+
+@media screen and (max-width: 900px){
+	.container{
+		width: 95%;
+	}
+}
